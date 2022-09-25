@@ -9,7 +9,6 @@ Pessoa,
 Fornecedor,
 Estoque,
 Pedido,
-Entrega,
 Pagamento,
 Vendedor,
 Produto.
