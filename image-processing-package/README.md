@@ -21,7 +21,7 @@ image_processing:
 
 Comandos para instalação:
 ```bash
-pip install image-processing
+pip install image_processing_abevilaqua
 ```
 ## Usage
 
